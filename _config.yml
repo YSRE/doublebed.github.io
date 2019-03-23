@@ -1,1 +1,27 @@
-theme: jekyll-theme-slate
+# Site settings
+name: 虾仁♂猪心
+email: 270794583@qq.com
+author: sunhaoyuan
+url: http://www.hifreud.com
+resume_site: http://www.hifreud.com/Resume.io/
+github: https://github.com/YSRE/ysre.github.io
+baseurl: ""
+description: 双人床
+meta_description: 个人博客
+motto: 怎么这么多格言
+banner: this is banner
+
+#permalink: /:categories/:year/:month/:day/:title/
+permalink: /:year/:month/:day/:title/
+paginate: 10
+
+exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']
+
+github_username: YSRE
+
+# Build settings
+markdown: kramdown
+
+#请到百度统计官网[https://tongji.baidu.com/](https://tongji.baidu.com/)申请自己的网站ID并在此处替换，否则将无法正常统计访问量
+baidu_analysis: 94be4b0f9fc5d94cc0d0415ea6761ae9
+
